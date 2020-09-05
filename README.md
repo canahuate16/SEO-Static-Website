@@ -1,6 +1,6 @@
 # Horiseon
 
-Foobar is a website created to connect businesses with the ideal customer via an enhanced optimization of search engines. Link: https://canahuate16.github.io/homework1/
+Horiseon is a website created to connect businesses with the ideal customer via an enhanced optimization of search engines. Link: https://canahuate16.github.io/homework1/
 
 ## Maintainers
 Luis Canahuate

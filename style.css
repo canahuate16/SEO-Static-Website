@@ -4,13 +4,14 @@
     margin: 0;
 }
 
-
+/*ordered attributes in a logical order as they appear in HTML */
 
 header{
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
 }
 
 header h1 {
@@ -61,20 +62,17 @@ body {
     background-position: center;
 }
 
+/*refers to Main content */
 .float-left {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin-right: 25px;
     
 }
 
@@ -87,33 +85,7 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-aside img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-
-aside{
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-
-
-
+/*was unable to put inside of Main due to formatting*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -141,8 +113,38 @@ aside{
     color: #ffffff;
 }
 
+/*Float right refers to aside content*/
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    float: right;
+    margin-left: 25px;
+}
+
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+aside{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 
 
 footer {

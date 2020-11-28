@@ -1,20 +1,41 @@
-# Horiseon
+# SEO-Static-Website
+    
+#### Table of Contents
+1. [Project Description](#project-description)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage Information](#usage-information)
+4. [Contributor Guidelines](#contributor-guidelines)
+5. [Code of Conduct](#code-of-conduct)
+6. [Test Instructions](#test-instructions)
+7. [License](#license)
+8. [Questions](#questions)
 
-Horiseon is a website created to connect businesses with the ideal customer via an enhanced optimization of search engines. Link: https://canahuate16.github.io/homework1/
-
-## Maintainers
-Luis Canahuate
-
-## Support
-For assistance or support contact Anthony Briglia, Tom Woods or Artan Muzhaqi (Tani) via the support link found on the website
-
-## Contributing
-While suggestions are encouraged, we are not open to contributions and no Pull requests will be allowed. 
+![SEO](https://user-images.githubusercontent.com/15930792/100490087-94ae6300-30e6-11eb-8206-9e023504f587.PNG)
 
 
-## Changes made:
-Semantic elements have been added to the source code.
-ALT attributes have been assigned to all images to better identify them.
-Title has been adjusted to communite goal of the website.
-CSS has been updated to match all new elements
+## Project Description
+* This website is written based on SEO standards to guarantee the highest amount of traffic and authority
+## Installation Instructions
+* None, simply launch the website
+
+## Usage Information
+* Displays correct used of terminology to optimal SEO
+
+## Contributor Guidelines
+* Guidelines details are discussed under the Code of Conduct section
+
+## Code of Conduct
+* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
+
+## Test Instructions
+* No test required
+
+## License
+* MIT License
+
+## Questions
+* For additional help or questions about collaboration, please reach out to luis.canahuate16@gmail.com
+
+* Follow me on Github at [canahuate16](http://github.com/canahuate16)
+
 
